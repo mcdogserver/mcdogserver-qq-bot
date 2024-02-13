@@ -1,0 +1,12 @@
+-=-=-=-=--=-=-=-=- BEGIN KOISHI BLOCKLY BLOCK V1 -=-=--=-=-=--=-=--=-=-=-
+H4sIAAAAAAAAA6VTTW+jMBD9LT1YWlVAAoRAeiqkVJVSaatt+rG5IBtcgoKxi01p
+Lv3ta4wpbNTVrrSSwfb4zbw3MzbwI+A4b7jmBa3k6sI25J+VTV5UycQsv7m1tFw5
+G8qhymjN1YkXAe+qMyKaHZVFxUQlTQ983JewyhuY48cx6Nz4HScjKag4MqxJU0oI
+rDJNW2TabM8Mbm9e9+z5Bvjrt5XBwHL+4zzRuHeVia9yUZJsx+vW+F3U8F5AgQdd
+vlL+UuAym2itIBkEgHgBohAEaxAvQbgGoQ1iDwRyuN1iFYEoBrEPghUI/A7fRywq
+1ohJRJiKoZJjdcbtJGMuS5twzLsiJUTOsman6Z9vwq0kSs8Wtxtx/XH2tDscjj8H
+1Al1SiuBK/Fv3DmR0KQgX5Cu7zfmt9vLjwd8E8LddV3nu+9/oBz89ZbvYUbbLxmF
+bMkpUXhn2Y79mDWlVOndGbvD1mtzjTpt1TZ+3mq/vRCMX8xmbdtaGaHYStNZLS8P
+JRbbs743fxnele5f/wJMggUcuTLM07pgYnwTWpS+pZ+y+hgCohJPbP0w/u9+de5N
+81krNHeXLgo8c+UuoLlAATQDhLAJvRQHju1g9AL7zH8B24jqEeoDAAA=
+-=-=--=-=-=--=-=-=-=- END KOISHI BLOCKLY BLOCK V1 -=-=--=-=-=--=-=--=-=-=-
